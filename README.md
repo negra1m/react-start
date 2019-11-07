@@ -1,6 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Purposal
+
+This project is to introduce some API calls on React and check some behaviors and functionalities of the library. Academical Project that consumes the 'Mercado Libre' API to show some products.
+
+The content of it is growing with the classes content.
 
 ## Available Scripts
+
+NOTE: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
